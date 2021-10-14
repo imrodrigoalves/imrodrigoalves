@@ -14,12 +14,13 @@
 
 ## Achievements
 
-✨ Age 18: 
+✨ Age 18
   - Optimized a job portal by 100% (page loads from 30sec to 1sec)
 
-✨ Age 19-20: 
+✨ Age 19-20 
   - Designed and implemented a job portal REST API using: OAuth, Recurring and One-time payments and custom billing system
+  - Implemented CI/CD using Jenkins and migrated to Bitbucket Pipelines
   - Acquired certification as "API Designer" by API Academy
 
-✨ Age 21 (now): 
+✨ Age 21 (now) 
   - Helped maintain and improve a "open-source" framework built on top of Slim 4, implemented a frontend SPA and designed the API for it.
