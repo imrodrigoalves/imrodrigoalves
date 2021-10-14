@@ -23,4 +23,5 @@
   - Acquired certification as "API Designer" by API Academy
 
 ✨ Age 21 (now) 
-  - Helped maintain and improve aN "open-source" framework built on top of Slim 4, implemented a frontend SPA and designed the API for it.
+  - Helped maintain and improve aN "open-source" framework built on top of Slim 4
+  - Implemented a frontend SPA and designed the API for it.
