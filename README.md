@@ -3,9 +3,13 @@
 🔭 I’m currently going on a learning hunt about Microservices, NodeJS and Software Architecture
 
 🌍 I'm mostly a reader online working to be more active @ laracasts.com/@imrodrigoalves
+
 💬 Ping me about REST Apis, laravel, vue, databases, development
+
 📫 Reach me: twitter.com/imrodrigoalves
+
 ⚡️ Fun fact: Have been working with computers since I was 8 years old and played games for many hours (Metin2, WoW, LoL, CSGo, RL, GTA V, ...)
+
 🌱 Always learning 
 
 ## Achievements
