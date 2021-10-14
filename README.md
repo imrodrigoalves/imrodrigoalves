@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 🔭 I’m currently going on a learning hunt about Microservices, NodeJS and Software Architecture
 
