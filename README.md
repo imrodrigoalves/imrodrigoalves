@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-🔭 I’m currently going on a learning hunt about Microservices, NodeJS and Software Architecture
-
 🌍 I'm mostly a reader online working to be more active @ [laracasts.com/@imrodrigoalves](https://laracasts.com/@imrodrigoalves)
 
 💬 Ping me about REST Apis, laravel, vue, databases, development
