@@ -22,4 +22,4 @@
 
 ✨ Age 21 (now) 
   - Helped maintain and improve an "open-source" framework built on top of Slim 4
-  - Implemented a frontend SPA and designed the API for it.
+  - Implemented a custom CRM using Vue as an SPA and designed and implemented the API for it.
