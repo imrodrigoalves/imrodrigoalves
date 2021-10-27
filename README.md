@@ -13,7 +13,7 @@
 ## Achievements
 
 ✨ Age 18
-  - Optimized a job portal by 100% (page loads from 30sec to 1sec)
+  - Added new features and optimized a job portal
 
 ✨ Age 19-20 
   - Designed and implemented a job portal REST API using: OAuth, Recurring and One-time payments and custom billing system
