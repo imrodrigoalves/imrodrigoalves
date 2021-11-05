@@ -21,5 +21,4 @@
   - Acquired certification as "API Designer" by API Academy
 
 ✨ Age 21 (now) 
-  - Helped maintain and improve an "open-source" framework built on top of Slim 4
-  - Implemented a custom CRM using Vue as an SPA and designed and implemented the API for it.
+  - Implemented a custom CRM using Vue as an SPA and designed and implemented the API for it
