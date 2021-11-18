@@ -6,7 +6,7 @@
 
 📫 Reach me: [twitter.com/imrodrigoalves](https://twitter.com/imrodrigoalves)
 
-⚡️ Fun fact: Have been working with computers since I was 8 years old and played games for many hours (Metin2, WoW, LoL, CSGo, RL, GTA V, ...)
+⚡️ Fun fact: Have been working with computers since I was 8 years old and played games for too many hours
 
 🌱 Always learning 
 
@@ -20,5 +20,5 @@
   - Implemented CI/CD using Jenkins and migrated to Bitbucket Pipelines
   - Acquired certification as "API Designer" by API Academy
 
-✨ Age 21 (now) 
+✨ Age 21 
   - Implemented a custom CRM using Vue as an SPA and designed and implemented the API for it
