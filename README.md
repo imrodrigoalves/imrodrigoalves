@@ -4,8 +4,6 @@
 
 💬 Ping me about REST Apis, laravel, vue, databases, development
 
-📫 Reach me: [twitter.com/imrodrigoalves](https://twitter.com/imrodrigoalves)
-
 ⚡️ Fun fact: Have been working with computers since I was 8 years old and played games for too many hours
 
 🌱 Always learning 
