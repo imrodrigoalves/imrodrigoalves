@@ -20,3 +20,4 @@
 
 ✨ Age 21 
   - Implemented a custom CRM using Vue as an SPA and designed and implemented the API for it
+  - Deployed a >3.5k MAU application to production environment
