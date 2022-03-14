@@ -19,5 +19,5 @@
   - Acquired certification as "API Designer" by API Academy
 
 ✨ Age 21 
-  - Implemented a custom CRM using Vue as an SPA and designed and implemented the API for it
-  - Deployed a 3500+ MAU application to production environment
+  - Implemented a custom CRM using Vue SPA && design + implementation of the API
+  - Deployed a 3500+ MAU application to production
