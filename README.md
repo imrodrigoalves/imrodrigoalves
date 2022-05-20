@@ -1,23 +1,33 @@
-## Hi there 👋
+### Hi there 👋
 
-🌍 I'm mostly a reader online working to be more active @ [laracasts.com/@imrodrigoalves](https://laracasts.com/@imrodrigoalves)
+🌍 I'm Rodrigo have ~4 years of experience and have worked on multiple projects. 
 
-💬 Ping me about REST Apis, laravel, vue, databases, development
+💬 Ping me about REST APIs, Laravel, Vue, Databases
 
 ⚡️ Fun fact: Have been working with computers since I was 8 years old and played games for too many hours
 
 🌱 Always learning 
 
-## Achievements
+### Projects
 
 ✨ Age 18
-  - Performed active maintenance in job portal by adding new feature and optimizing existing ones.
+- IT Job Portal (Portugal)
+  - Learned about APIs, JWT, MVC frameworks
+  - Performed optimizations by improving queries and preventing N+1 queries
 
 ✨ Age 19-20 
-  - Designed and implemented a job portal REST API using: OAuth, Recurring and One-time payments and custom billing system
-  - Implemented CI/CD using Jenkins and migrated to Bitbucket Pipelines
-  - Acquired certification as "API Designer" by API Academy
+- Job Portal (Germany)
+  - Designed and implemented a REST API that implements OAuth, Recurring and One-time payments and a subscription system
+  - Implemented CI/CD using Bitbucket Pipelines
+  - Implemented Laravel Vapor for the API to become serverless
+  - Implemented Serverless framework on a SPA to be server side rendered on AWS
+- Acquired "API Designer" certification by API Academy
 
 ✨ Age 21 
-  - Implemented a custom CRM using Vue SPA && design + implementation of the API
-  - Deployed a 3500+ MAU application live
+- CRM (Portugal)
+  - Designed and implemented the frontend as an SPA using Quasar and Vue
+  - Designed and implemented the API for the SPA
+
+- Job Portal (Germany)
+  - Prepared all production environment on AWS - Cloudfront, RDS, Route 53
+  - Performed majorrole in deploying the application to production
