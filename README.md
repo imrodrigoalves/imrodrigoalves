@@ -12,7 +12,7 @@
 - IT Job Portal 
   - Learned about APIs, JWT, MVC frameworks
   - Performed optimizations by improving queries and preventing N+1 queries
-- Job Portal (Germany)
+- Job Portal
   - Designed and implemented a REST API that implements OAuth, Recurring and One-time payments and a subscription system
   - Implemented CI/CD using Bitbucket Pipelines
   - Implemented Laravel Vapor for the API to become serverless
