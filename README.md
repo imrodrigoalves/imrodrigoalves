@@ -29,5 +29,7 @@
   - Designed and implemented the API for the SPA
 
 - Job Portal (Germany)
-  - Prepared all production environment on AWS - Cloudfront, RDS, Route 53
-  - Performed majorrole in deploying the application to production
+  - Prepared all production environment on AWS - Cloudfront, RDS, Route 53, Lambda, Cloudwatch, SQS, SES
+  - Performed major role in deploying the application to production
+
+✨ Age 22 (To be continued)
