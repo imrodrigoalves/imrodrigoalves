@@ -15,9 +15,8 @@
 - Job Portal
   - Designed and implemented a REST API that implements OAuth, Recurring and One-time payments and a subscription system
   - Implemented CI/CD using Bitbucket Pipelines
-  - Implemented Laravel Vapor for the API to become serverless
-  - Implemented Serverless framework on a SPA to be server side rendered on AWS
-  - Prepared all production environment on AWS - Cloudfront, RDS, Route 53, Lambda, Cloudwatch, SQS, SES
+  - Implemented Laravel Vapor on the API
+  - Implemented Serverless framework on a SPA for SSR
   - Performed major role in deploying the application to production
 - Custom CRM - Developed an SPA and an API
 - Integration API between Payment providers and Sharepoint
