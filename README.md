@@ -4,9 +4,7 @@
 
 💬 Feel free to talk about REST APIs, Laravel, Vue or Databases with me
 
-⚡️ Fun fact: Have been working with computers since I was 8 years old and played games for too many hours
-
-🌱 **Improve 1% every day**
+⚡️ Curious fact: Have been working with computers since I was 8 years old and played games for too many hours
 
 ### Projects
 
