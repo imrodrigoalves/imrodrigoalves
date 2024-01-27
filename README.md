@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-🌍 I'm a developer with ~5 years of experience that has worked on multiple projects. 
+🌍 I'm Rodrigo, a tech enthusiast dedicated to online privacy and security. With over half a decade of experience in software development, APIs, and SaaS solutions, I thrive on creating innovative and efficient solutions.
 
-💬 Feel free to talk about REST APIs, Laravel, Vue or Databases with me
-
-⚡️ Curious fact: Have been working with computers since I was 8 years old and played games for too many hours
+⚡️ Fun Fact: I embarked on my tech journey at the young age of 9, setting up my first LAMP server to host a custom version of the online game Habbo.
